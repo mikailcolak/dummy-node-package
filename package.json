@@ -5,6 +5,6 @@
   "main": "index.js",
   "repository": "https://github.com/mikailcolak/dummy-node-package",
   "author": "Mikail COLAK <mikailcolak@gmail.com>",
-  "license": "The Unlicense",
+  "license": "Unlicense",
   "private": false
 }
