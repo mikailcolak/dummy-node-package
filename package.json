@@ -1,0 +1,10 @@
+{
+  "name": "dummy-node-package",
+  "version": "1.0.0",
+  "description": "A dummy node package that does nothing to use when you want to ignore a package in package resolution.",
+  "main": "index.js",
+  "repository": "https://github.com/mikailcolak/dummy-node-package",
+  "author": "Mikail COLAK <mikailcolak@gmail.com>",
+  "license": "The Unlicense",
+  "private": false
+}
